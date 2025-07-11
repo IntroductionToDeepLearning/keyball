@@ -112,6 +112,11 @@
             bindings = <&to 2>;
             key-positions = <29 28>;
         };
+
+        what {
+            bindings = <&none>;
+            key-positions = <8 9 10 11>;
+        };
     };
 
     keymap {
